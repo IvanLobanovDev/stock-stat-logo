@@ -1,0 +1,22 @@
+<svg id="mySVG" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158 58" class="logo" width="158" height="58">
+    <style>
+        .logo {
+            font-weight: normal;
+            font-size: 26px;
+            line-height: 1.19;
+            letter-spacing: 0.03em;
+            fill: #B71C1C; /* Changed from color to fill */
+            font-family: 'Roboto Condensed', sans-serif;
+            text-anchor: start; /* Align text to the start (left) */
+            dominant-baseline: middle; /* Center vertically */
+        }
+        .black {
+            fill: black;
+            font-family: 'Roboto Condensed', sans-serif;
+            text-anchor: start; /* Align text to the start (left) */
+            dominant-baseline: middle; /* Center vertically */
+        }
+    </style>
+    <text x="0" y="29" class="logo">Stock</text>
+    <text x="70" y="29" class="black">Stat</text>
+</svg>
