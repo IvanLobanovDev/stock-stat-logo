@@ -1,0 +1,23 @@
+
+<svg width="258" height="100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+        .logo {{
+            font-family: 'Roboto Condensed', sans-serif;
+            font-weight: normal;
+            font-size: 26px;
+            line-height: 1.19;
+            letter-spacing: 0.03em;
+            fill: #B71C1C;
+            padding-top: 16px;
+            padding-bottom: 16px;
+        }}
+        .logo .stat {{
+            fill: black;
+        }}
+    </style>
+    <!-- Define the text element within the SVG -->
+    <text x="0" y="35" class="logo">
+        Stock<tspan class="stat">Stat</tspan>
+    </text>
+</svg>
